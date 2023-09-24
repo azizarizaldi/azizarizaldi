@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Aziz Arif Rizaldi 👋
 
-<!--
-**azizarizaldi/azizarizaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 I currently work as a Software Engineer.
 
-Here are some ideas to get you started:
+🛠️ I have experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development:** HTML · CSS · JavaScript · PHP · VueJS · AngularJS · Codeigniter · Slim · Symfony · Laravel · Java · C#
+- **Project Management:** Trello · Jira · Asana · GIT · Microsoft Project · Notion
+- **Database Management:** MySQL · SQL Server · Redis · SQLite
+
+🌱 I’m currently learning Laravel 10, Golang, and VueJS.
+
+👯 I enjoy collaborating on open source projects.
+
+👍 Fun Fact: I enjoy anime, but I'm not a "wibu" (otaku). 😎
+
+💬 Feel free to ask me about:
+- Web development and programming. 🚀
+- My favorite web technologies and programming languages. 💻
+- My anime recommendations or any anime-related questions. 🤓
+
+📫 You can reach me via email: [azardi.business@gmail.com](mailto:azardi.business@gmail.com).
+
+Thank you for visiting my GitHub profile! If you're interested in collaborating or discussing specific projects, feel free to reach out to me.
