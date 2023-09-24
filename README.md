@@ -1,6 +1,6 @@
 ### Hi, I'm Aziz Arif Rizaldi 👋
 
-👨🏻‍💻 I currently work as a Software Engineer.
+👨🏻‍💻 I currently work as a Software Engineer and Freelance Web Applications Developer.
 
 🛠️ I have experience in:
 
