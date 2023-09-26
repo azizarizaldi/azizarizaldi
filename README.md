@@ -22,5 +22,11 @@
 📫 You can reach me via email: [azardi.business@gmail.com](mailto:azardi.business@gmail.com).
 
 Thank you for visiting my GitHub profile! If you're interested in collaborating or discussing specific projects, feel free to reach out to me.
-
-[![Aziz's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=azizarizaldi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/azizarizaldi)
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/azizarizaldi">
+  <img height="100px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizarizaldi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="100px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizarizaldi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
