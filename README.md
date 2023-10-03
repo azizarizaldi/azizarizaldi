@@ -30,3 +30,7 @@ Thank you for visiting my GitHub profile! If you're interested in collaborating 
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizarizaldi&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+<div align="center" style="display: inline">  
+![Snake Commit animation](https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg)
+</div>
