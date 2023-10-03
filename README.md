@@ -31,6 +31,8 @@ Thank you for visiting my GitHub profile! If you're interested in collaborating 
 </a>
 </p>
 
-<div align="center" style="display: inline">  
-![Snake Commit animation](https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg)
-</div>
+<center>
+
+![Snake Animation](https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg)
+
+</center>
