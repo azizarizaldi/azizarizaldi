@@ -22,7 +22,10 @@
 📫 You can reach me via email: [azardi.business@gmail.com](mailto:azardi.business@gmail.com).
 
 Thank you for visiting my GitHub profile! If you're interested in collaborating or discussing specific projects, feel free to reach out to me.
-  
+
+### Github Activity
+![Snake Animation](https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg)
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/azizarizaldi">
@@ -30,9 +33,3 @@ Thank you for visiting my GitHub profile! If you're interested in collaborating 
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizarizaldi&layout=compact&theme=algolia"/>
 </a>
 </p>
-
-<center>
-
-![Snake Animation](https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg)
-
-</center>
