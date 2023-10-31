@@ -1,4 +1,5 @@
 ### Hi, I'm Aziz Arif Rizaldi 👋
+[![An image of @azizarizaldi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
 
  - 👨🏻‍💻 I currently work as a Software Engineer and Freelance Web Applications Developer.
  - 🛠️ I have experience in:
@@ -18,13 +19,15 @@
  - 📫 You can reach me via email: [azardi.business@gmail.com](mailto:azardi.business@gmail.com).
 
 Thank you for visiting my GitHub profile! If you're interested in collaborating or discussing specific projects, feel free to reach out to me.
-### Github Activity
-![Snake Animation](https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg)
 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/azizarizaldi">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=azizarizaldi&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&rank_icon=github"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=azizarizaldi&show_icons=true&count_private=true&theme=algolia"/>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizarizaldi&layout=compact&theme=algolia"/>
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=azizarizaldi&theme=algolia"/>
 </a>
 </p>
+
+### Github Activity
+![Snake Animation](https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg)
