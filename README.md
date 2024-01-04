@@ -24,7 +24,7 @@ Thank you for visiting my GitHub profile! If you're interested in collaborating 
 <p align="left">
 <a href="https://github.com/azizarizaldi">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=azizarizaldi&show_icons=true&count_private=true&theme=algolia"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizarizaldi&layout=compact&theme=algolia"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizarizaldi&layout=compact&theme=algolia&hide=shell"/>
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=azizarizaldi&theme=algolia"/>
 </a>
 </p>
