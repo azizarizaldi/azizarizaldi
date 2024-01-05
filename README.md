@@ -9,7 +9,7 @@
  
  - 🌱 Learning everything i like and find it useful.
  - 👯 I enjoy collaborating on open source projects.
- - 👍 Fun Fact: I enjoy anime, but I'm not a "wibu" (otaku). 😎
+ - 👍 Fun Fact: I enjoy anime, but I'm not "wibu". 😎
  
  - 💬 Feel free to ask me about:
    * Web development and programming. 🚀
