@@ -69,11 +69,10 @@ profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
   </a>
 </div>
 
-<details><summary>CLICK ME</summary>
+<details><summary><h2 align="center">Technologies and Tools I Use</h2></summary>
 
 ###
 
-<h3 align="center">Technologies and Tools I Use</h3>
 
 ###
 
