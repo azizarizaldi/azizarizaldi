@@ -185,3 +185,7 @@
 </div>
 
 ###
+
+<img src="https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
