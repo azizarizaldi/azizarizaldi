@@ -65,12 +65,12 @@ profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
   </a>
 </div>
 
-<details><summary align="center">
-<h3 align="center">Technologies and Tools I Use</h3>
+<details><summary align="center"><h2 align="center">Technologies and Tools I Use</h2>
 </summary>
 
 ###
 
+<h3 align="center">Technologies and Tools I Use</h3>
 
 ###
 
