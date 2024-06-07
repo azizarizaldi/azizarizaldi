@@ -1,6 +1,4 @@
-<div align="center">
-  [![An image of @azizarizaldi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
-</div>
+[![An image of @azizarizaldi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
 
 ###
 
