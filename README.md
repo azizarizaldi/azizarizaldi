@@ -218,7 +218,5 @@ profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
 ###
 </details>
 
-<h2 align="center">My Snake 🐍😜</h2>
-
 <img src="https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg"
   alt="Snake animation" />
