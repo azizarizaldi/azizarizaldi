@@ -1,5 +1,3 @@
-[![An image of @azizarizaldi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
-
 ###
 
 <div align="center">
@@ -45,6 +43,8 @@
 ###
 
 <p align="left">Welcome to my github page!</p>
+
+[![An image of @azizarizaldi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
 
 ###
 
