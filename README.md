@@ -9,15 +9,11 @@
 [![An image of @azizarizaldi's Holopin badges, which is a link to view their full Holopin
 profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=azizarizaldi.azizarizaldi&" />
 </div>
 
-###
-
-<h2 align="center">Where to find me</h2>
+<h2 align="left">Where to find me</h2>
 
 ###
 
@@ -69,10 +65,11 @@ profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
   </a>
 </div>
 
-<details><summary><h2 align="center">Technologies and Tools I Use</h2></summary>
+<details><summary><p>Technologies and Tools I Use</p></summary>
 
 ###
 
+<h2 align="center">Technologies and Tools I Use</h3>
 
 ###
 
