@@ -1,8 +1,8 @@
-<h2 align="center">Hi, I'm Aziz Arif Rizaldi 👋</h2>
+<h2 align="center">Welcome to my github page 👋</h2>
 
 ###
 
-<p align="left">Welcome to my github page!</p>
+<p align="left">Hi there! 👋 I'm Aziz Arif Rizaldi, a newbie software engineer and full-stack developer based in Indonesia.</p>
 
 ###
 
