@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! 👋 I'm Aziz Arif Rizaldi, a newbie software engineer and full-stack developer based in Indonesia. Take your time and enjoy 😄😋👊🤝✨</p>
+<p align="left">Hi there! 👋 I'm Aziz Arif Rizaldi, a newbie software engineer and full-stack developer based in Indonesia.<br/>Take your time and enjoy 😄😋👊🤝✨</p>
 
 ###
 
