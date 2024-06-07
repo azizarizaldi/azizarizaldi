@@ -69,6 +69,8 @@ profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
   </a>
 </div>
 
+<details><summary>CLICK ME</summary>
+
 ###
 
 <h3 align="center">Technologies and Tools I Use</h3>
@@ -217,6 +219,7 @@ profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
 </div>
 
 ###
+</details>
 
 <img src="https://github.com/azizarizaldi/azizarizaldi/blob/output/github-contribution-grid-snake.svg"
   alt="Snake animation" />
