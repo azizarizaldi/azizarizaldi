@@ -17,6 +17,7 @@
 ###
 
 <h3 align="center">Where to find me</h3>
+<hr/>
 
 ###
 
@@ -53,7 +54,7 @@
 ###
 
 <h3 align="center">Technologies and Tools I Use</h3>
-
+<hr/>
 ###
 
 <h4 align="center">Programming Language</h4>
