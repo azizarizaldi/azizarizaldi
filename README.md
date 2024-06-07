@@ -13,7 +13,7 @@ profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
   <img src="https://visitor-badge.laobi.icu/badge?page_id=azizarizaldi.azizarizaldi&" />
 </div>
 
-<h2 align="center">Where to find me</h2>
+<h2 align="center">Where to find me 🌐</h2>
 
 ###
 
@@ -67,10 +67,10 @@ profile](https://holopin.me/azizarizaldi)](https://holopin.io/@azizarizaldi)
 
 ###
 
-<h2 align="center">Technologies and Tools I Use</h2>
+<h2 align="center">Technologies and Tools I Use 🛠️💻</h2>
 
 
-<details><summary align="center">[Click Here to view...]</summary>
+<details><summary align="center">[Click Here to view...] 👀</summary>
 
 ###
 
